@@ -1,4 +1,3 @@
-/*
 package com.example.Sprint1ManagePatient;
 
 import org.junit.jupiter.api.Test;
@@ -12,6 +11,3 @@ class Sprint1ManagePatientApplicationTests {
 	}
 
 }
-
-
- */

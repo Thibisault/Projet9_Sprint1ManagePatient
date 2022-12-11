@@ -32,8 +32,8 @@ public class PatientService {
         return patientRepository.findByIdPatient(idPatient).orElse(null);
     }
 
-    public Patient findByAddress(String adress){
-        return patientRepository.findByAddress(adress).orElse(null);
+    public Patient findByAddress(String address){
+        return patientRepository.findByAddress(address).orElse(null);
     }
 
 }

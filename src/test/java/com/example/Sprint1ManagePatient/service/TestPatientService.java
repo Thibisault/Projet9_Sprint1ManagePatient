@@ -1,4 +1,3 @@
-/*
 package com.example.Sprint1ManagePatient.service;
 
 import com.example.Sprint1ManagePatient.entity.Patient;
@@ -153,7 +152,6 @@ public class TestPatientService {
         assertNotNull("Le patitent n'a pas été supprimé", patient_2Result);
         assertNull("Le patient n'a pas été crée ou n'a pas été trouvé dans la base de donéés",patient_3Result);
     }
-
+     */
 }
 
-     */
